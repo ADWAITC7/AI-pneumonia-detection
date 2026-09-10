@@ -134,6 +134,9 @@ Confusion matrix:
  [  3, 387]]
 ```
 
+<img width="1882" height="906" alt="image" src="https://github.com/user-attachments/assets/3edf5748-2d88-4e9f-ba24-2bfa8dcfb742" />
+<img width="1527" height="782" alt="image" src="https://github.com/user-attachments/assets/cd943166-99df-48f7-a1c8-36019e8b5183" />
+
 Where:
 
 - True Negatives (NORMAL correctly predicted): **138**
